@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.summary      = 'Powerful text framework for iOS to display and edit rich text.'
   s.version      = '0.0.1'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
-  s.authors      = { 'SundySmail' => 'SundySmail@gmail.com' }
+  s.authors      = { 'SundySmail' => 'lxb1132482983@qq.com' }
   s.social_media_url = 'http://blog.SundySmail.com'
   s.homepage     = 'https://github.com/SundySmail/QSYYText'
   s.platform     = :ios, '11.0'
